@@ -1,0 +1,4 @@
+
+Aqui enpieza el desarrollo del projecto del final de curso.
+
+Se trata de una app que gestiona las compras com codigo Qr en las Tiendas.
